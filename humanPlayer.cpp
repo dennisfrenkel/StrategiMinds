@@ -1,9 +1,5 @@
 //
 //  humanPlayer.cpp
-//  FinalProject.cpp
-//
-//  Created by Dennis Frenkel on 12/4/23.
-//
 
 #include "humanPlayer.h"
 #include <iostream>
