@@ -1,9 +1,6 @@
 //
 //  player.h
-//  FinalProject.cpp
-//
-//  Created by Dennis Frenkel on 12/4/23.
-//
+
 
 #ifndef player_h
 #define player_h
