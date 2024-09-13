@@ -1,9 +1,7 @@
 //
 //  computerPlayer.cpp
-//  FinalProject.cpp
-//
-//  Created by Dennis Frenkel on 12/4/23.
-//
+
+
 
 #include "computerPlayer.h"
 #include <cstdlib>
