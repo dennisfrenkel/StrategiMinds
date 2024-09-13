@@ -1,9 +1,6 @@
 //
 //  humanPlayer.h
-//  FinalProject.cpp
-//
-//  Created by Dennis Frenkel on 12/4/23.
-//
+
 
 #ifndef humanPlayer_h
 #define humanPlayer_h
