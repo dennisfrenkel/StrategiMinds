@@ -1,9 +1,6 @@
 //
 //  computerPlayer.h
-//  FinalProject.cpp
-//
-//  Created by Dennis Frenkel on 12/4/23.
-//
+
 
 #ifndef computerPlayer_h
 #define computerPlayer_h
