@@ -1,9 +1,6 @@
 //
 //  player.cpp
-//  FinalProject.cpp
-//
-//  Created by Dennis Frenkel on 12/4/23.
-//
+
 #include "player.h"
 #include <iostream>
 
