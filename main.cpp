@@ -1,8 +1,6 @@
 // Dennis Frenkel
 // main.cpp
-// FinalProject.cpp
-// Dakota Hernandez
-// Computer Science 2
+
 
 #include <iostream>
 #include <cstdlib>
